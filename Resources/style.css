@@ -91,3 +91,8 @@ a {
 ul li:hover .projectDrop {
     display:block
 }
+
+footer { 
+    text-align: right;
+    text-decoration: underline;
+}
