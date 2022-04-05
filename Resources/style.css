@@ -83,3 +83,11 @@ a {
         flex-direction: column;
     }
 }
+
+.projectDrop {
+    display: none;
+}
+
+ul li:hover .projectDrop {
+    display:block
+}
